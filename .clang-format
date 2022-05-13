@@ -1,0 +1,4 @@
+﻿BasedOnStyle: WebKit
+BreakBeforeBraces: Attach
+SpaceAfterTemplateKeyword: false
+...
