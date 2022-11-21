@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Support%20my%20Work-PayPal-%230079c1%20)](https://www.paypal.com/donate?hosted_button_id=BHWMH7GDX35QS)
 # threadpool
 
-An example threadpool implementation. Article: [medium.com/@lionkor](TODO)
+An example threadpool implementation. Article can be found on https://blog.kortlepel.com.
 
 Contributions welcome!
 
